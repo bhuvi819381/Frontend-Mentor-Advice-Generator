@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/karan819381/Frontend-Mentor-Advice-Generator]
-- Live Site URL: [https://karan819381.github.io/Frontend-Mentor-Advice-Generator]
+- Solution URL: [https://github.com/bhuvi819381/Frontend-Mentor-Advice-Generator]
+- Live Site URL: [https://bhuvi819381.github.io/Frontend-Mentor-Advice-Generator]
 
 ## My process
 
